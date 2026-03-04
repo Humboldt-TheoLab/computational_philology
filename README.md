@@ -1,2 +1,3 @@
-# computational_philology
-Repository for the "Computational Philology" seminar held at Humboldt Universität zu Berlin. The seminar introduces students to the use of the latest advances in computational linguistics and their applications in classical and biblical philology.
+Welcome to the repository for the "Computational Philology" (IPML) course, offered to bachelor students at Humboldt-Universität zu Berlin by the Biblische Theologie and German Linguistics Team and the Computational Linguistic chair at Sorbonne University. This repository provides materials for the tutorial part of the course, including code samples, demonstrations, and more.
+
+For enrolled students, additional resources, updates, and discussions are available on our Moodle course page.
